@@ -1,0 +1,1 @@
+flutter pub add provider shared_preferences permission_handler ntp worldtime timezone path_provider package_info_plus url_launcher restart_app

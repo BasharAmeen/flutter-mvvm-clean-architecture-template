@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template_mvvm/core/resources/routes_manager.dart';
+
+import '../resources/routes_manager.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp._internal();

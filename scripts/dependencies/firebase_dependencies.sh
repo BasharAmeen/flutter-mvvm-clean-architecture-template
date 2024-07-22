@@ -1,0 +1,1 @@
+flutter pub add firebase_core firebase_auth cloud_firestore cloud_functions firebase_storage firebase_messaging firebase_analytics firebase_crashlytics firebase_performance firebase_remote_config
