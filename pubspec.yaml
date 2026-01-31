@@ -8,8 +8,12 @@ environment:
 
 dependencies:
 
+  easy_localization: ^3.0.8
   flutter:
     sdk: flutter
+  flutter_screenutil: ^5.9.3
+  get_it: ^9.2.0
+  provider: ^6.1.5+1
 
 dev_dependencies:
   flutter_test:
